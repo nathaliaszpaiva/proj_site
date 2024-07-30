@@ -1,0 +1,39 @@
+/* Todos os imports têm que ser colocados no início do CSS */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Playwrite+BE+WAL:wght@100..400&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+body{
+    background-color: black;
+
+}
+
+.nenem{
+    width: 200px;
+}
+
+.imagi{
+    width: 170px;
+
+}
+
+/*Classe para configuração da fonte */
+.fonte{
+    color: aliceblue;
+    font-size: 16px;
+    font-family: "Ubuntu", serif;
+    text-align: center;
+}
+
+.fonti{
+    color: rgb(100, 77, 161);
+    font-size: 100px;
+    font-family: "Bebas Neue", serif;
+    text-align: center;
+}
+
+.fonter{
+    color: rgb(161, 77, 157);
+    font-size: 50px;
+    font-family: "Playwrite+BE+WAL", serif;
+    text-align: center;
+}
